@@ -1,0 +1,23 @@
+#gameList .card-img-top{
+    height: 280px;
+    object-fit: cover;
+}
+#gameList .card-title{
+    height: 60px;
+    line-height: 25px;
+}
+#gameList .savings{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+#gameList .price{
+    line-height: 38px;
+}
+#gameList .new_price{
+    font-size: 21px;
+    margin-right: 5px;
+}
+#gameList .old_price{
+    font-size: 18px;
+}
